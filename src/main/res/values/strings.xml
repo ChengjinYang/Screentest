@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">屏幕检测</string>
+    <string name="tips">点按屏幕继续，点按返回终止\n通过颜色切换检测屏幕是否存在瑕疵\n纯色注意色彩是否均匀真实，变色注意过渡是否平滑自然</string>
+</resources>
